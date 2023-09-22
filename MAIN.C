@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * a collaboration work between Adebowale Adesokan and Dada Opeyemi
  * Return: Always 0
  */
 int main(void)
